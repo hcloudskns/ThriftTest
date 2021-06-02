@@ -18,7 +18,7 @@ public class ArithmeticClient {
 	            transport.open();
 
 	            long addResult = client.add(100, 200);
-	            //System.out.println("Add result: " + addResult 현조;
+	            //System.out.println("Add result: " + addResult 현조  승민;
 	            long multiplyResult = client.multiply(20, 40);
 	           // System.out.println("Multiply result: " + multiplyResult);
 
